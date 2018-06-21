@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using dotnet_vue_poc.Models;
+using dotnetvuepoc.Models;
 
-namespace dotnet_vue_poc.Controllers
+namespace dotnetvuepoc.Controllers
 {
     public class HomeController : Controller
     {

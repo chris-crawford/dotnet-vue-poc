@@ -1,6 +1,6 @@
 using System;
 
-namespace dotnet_vue_poc.Models
+namespace dotnetvuepoc.Models
 {
     public class ErrorViewModel
     {
